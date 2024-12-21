@@ -1,7 +1,0 @@
-funcao calcular(expressao)
-    var codigoLibra = "sair(" + expressao + ")"
-    retornar libra(codigoLibra)
-fim
-
-var x = calcular("1+2*3+1")
-exibir(x)

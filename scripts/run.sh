@@ -1,0 +1,1 @@
+dotnet publish --runtime linux-x64 && ./src/Libra-CLI/bin/Release/net8.0/linux-x64/libra src/Libra/teste/teste.libra
